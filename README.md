@@ -21,4 +21,4 @@ Bem, o CheerLights é capaz de proporcionar um ambiente fértil para explorar um
 - [ ] display do ESP32 com a indicação da cor e tempo de exposição da respectiva cor; e
 - [ ] dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta me parece a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
-Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffe:). **Fique de olho no CheerLights!**
+Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). **Fique de olho no CheerLights!**
