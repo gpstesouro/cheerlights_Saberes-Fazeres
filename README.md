@@ -1,5 +1,5 @@
 # cheerlights_Saberes-Afazeres
-Explorando o @CheerLights como meio de aprendizado para programação com ESP32. 
+Explorando o @CheerLights como meio de aprendizado para programação com a placa ESP32. 
 
 Primeiro um pouquinho de história!
 CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) das pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma forma de conectar/comandar coisas físicas (arranjos luminosos de natal, displays, painéis ou aplicativos) por intermédio de redes sociais.
