@@ -3,11 +3,11 @@
 Explorando o [@CheerLights](https://cheerlights.com/) como meio de instrução para a programação da placa ESP32 Heltec V2. 
 
 Primeiro um pouquinho de história!
-CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma forma de conectar/comandar coisas físicas (arranjos luminosos de Natal, displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em voga, [Twitter](https://twitter.com/).
+CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma das formas de conectar/comandar coisas físicas (arranjos luminosos de Natal, displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em voga, [Twitter](https://twitter.com/).
 
 Experimente, você mesmo, enviando um tweet. Simplesmente digite: **@CheerLights red now** <enter>
 
-Essa mensagem será processada e causará uma reação em cadeia, fazendo com que todos os dispositivos "CheerLights" mudem de cor para vermelho, inclusive o painel de leds ao lado da minha mesa. As cores podem ser: *red, pink, green, blue, cyan, white, warmwhite, oldlace, purple, magenta, yellow ou orange*. Escolha e mande bala, ou melhor, pode *tweetar*.
+Essa mensagem será processada e causará uma reação em cadeia, fazendo com que todos os dispositivos "CheerLights" mudem de cor para vermelho, inclusive o painel de leds ao lado da minha mesa. As cores podem ser: *red, pink, green, blue, cyan, white, warmwhite, oldlace, purple, magenta, yellow ou orange*. Escolha e mande bala, ou melhor, pode *tweetar* à vontade.
 
 ***
 
@@ -21,4 +21,4 @@ Bem, o CheerLights é capaz de proporcionar um ambiente fértil para explorar um
 - [ ] display do ESP32 com a indicação da cor e tempo de exposição da respectiva cor; e
 - [ ] dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta me parece a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
-Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho. **Fique de olho no CheerLights!**  
+Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho. **Fique de olho no CheerLights!**
