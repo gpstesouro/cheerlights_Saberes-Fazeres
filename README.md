@@ -11,3 +11,7 @@ Isso causará uma reação em cadeia e todos os dispositivos "CheerLights" mudar
 +++++++++++++++++++++++++++++++++
 
 Muito bem e para que serve isto? Por qual motivo terei interesse em mudar a cor da árvore de natal do vizinho, mesmo sabendo que este "vizinho invisível" poderá estar do outro lado do planeta? E daí ...
+Bem, o CheerLights é capaz de proporcionar um ambiente fértil para explorar um série de recursos de programação, a depender de sua imaginação e criatividade. Uma vez brincado, sem  compromisso, com o CheerLights; fica mais simples e fácil transpor o conhecimento adquirido para uma aplicação prática. Será este o objetivo do sketch apresentado, o qual abordará:
+1.
+2. 
+3.
