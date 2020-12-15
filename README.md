@@ -10,4 +10,4 @@ Isso causará uma reação em cadeia e todos os dispositivos "CheerLights" mudar
 
 +++++++++++++++++++++++++++++++++
 
-Muito bem e para que serve isto?
+Muito bem e para que serve isto? Por qual motivo terei interesse em mudar a cor da ávore de natal do vizinho, mesmo este "vizinho" estando no outro lado do planeta? E daí ...
