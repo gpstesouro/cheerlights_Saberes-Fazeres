@@ -2,9 +2,9 @@
 Explorando o @CheerLights como meio de instrução para a programação com a placa ESP32. 
 
 Primeiro um pouquinho de história!
-CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) das pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma forma de conectar/comandar coisas físicas (arranjos luminosos de Natal, displays, painéis ou aplicativos) por intermédio de redes sociais.
+CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma forma de conectar/comandar coisas físicas (arranjos luminosos de Natal, displays, painéis ou aplicativos) por intermédio de redes sociais, neste caso, Twitter.
 
-Experimente, você mesmo, o CheerLights, enviando um tweet. Simplesmente digite: **@CheerLights red now** <enter>
+Experimente, você mesmo, enviando um tweet. Simplesmente digite: **@CheerLights red now** <enter>
 
 Isso causará uma reação em cadeia e todos os dispositivos "CheerLights" mudarão de cor para vermelho, inclusive o painel de leds ao lado da minha mesa.
 
