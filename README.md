@@ -4,7 +4,7 @@
 Explorando o [@CheerLights](https://cheerlights.com/) como meio de instrução para a programação da placa ESP32 Heltec V2. 
 
 Primeiro um pouquinho de história!
-CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma das formas de conectar/comandar coisas físicas ([arranjos luminosos de Natal](https://cheerlights.com/live/), displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em questão, [Twitter](https://twitter.com/).
+CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma das formas de conectar/comandar coisas físicas (arranjos luminosos de Natal, displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em questão, [Twitter](https://twitter.com/).
 
 Experimente, você mesmo, enviando um tweet. Simplesmente digite: **@CheerLights red now** <enter>
 
@@ -12,9 +12,9 @@ Essa mensagem será processada e causará uma reação em cadeia, fazendo com qu
 
 ***
 
-Muito bem e para que serve isto? Por qual motivo terei interesse em mudar a cor da árvore de Natal do vizinho, mesmo sabendo que este "vizinho invisível" poderá estar do outro lado do planeta? E daí ...
+Muito bem e para que serve isto? Por qual motivo terei interesse em mudar a cor da [árvore de Natal](https://cheerlights.com/live/) do vizinho, mesmo sabendo que este "vizinho invisível" poderá estar do outro lado do planeta? E daí ...
 
-Bem, o CheerLights é capaz de proporcionar um ambiente fértil para explorar um série de recursos de programação, a depender de sua imaginação e criatividade. Uma vez se divertido, sem  compromisso, com o CheerLights; fica mais simples e fácil transpor o conhecimento adquirido para uma aplicação prática. **Inspirá-lo**, será o objetivo do *sketch* apresentado, o qual abordará:
+Bem, o CheerLights é capaz de proporcionar um ambiente bastante fértil para explorar um série de recursos de programação, a depender de sua imaginação e criatividade. Uma vez se divertido e brincado, sem  compromisso, com o CheerLights; fica mais simples e fácil transpor o conhecimento adquirido para uma aplicação prática. **Inspirá-lo**, será o objetivo do *sketch* apresentado, o qual abordará:
 ***
 - [x] v.1: vamos lá, sei que você não se contentará com a monotonia de uma única cor (monocromático). Façamos dois tipos de registros históricos: (i) um visual (fita de leds) com os 48 últimos registros de cores amostrados (discretizados) a cada 10 segundos; e (ii) prover dados para um banco de dados com a cor e o respectivo intervalo de permanência (tempo de cronômetro) da cor inalterada;  
 - [x] v.1.1: display do ESP32 com a indicação da cor e tempo de exposição da respectiva cor;
