@@ -1,4 +1,4 @@
-## cheerlights_Saberes-Afazeres
+## cheerlights_Saberes&Afazeres
 ***
 
 Explorando o [@CheerLights](https://cheerlights.com/) como meio de instrução para a programação da placa ESP32 Heltec V2. 
