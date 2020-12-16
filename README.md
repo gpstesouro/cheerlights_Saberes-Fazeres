@@ -10,6 +10,8 @@ Experimente, você mesmo, enviando um tweet. Simplesmente digite: **@CheerLights
 
 Essa mensagem será processada e causará uma reação em cadeia, fazendo com que todos os dispositivos "CheerLights" mudem de cor para vermelho, inclusive o painel de leds ao lado da minha mesa. As cores podem ser: *red, pink, green, blue, cyan, white, warmwhite, oldlace, purple, magenta, yellow ou orange*. Escolha e mande bala, ou melhor, pode *tweetar* à vontade.
 
+![painel](https://github.com/Mario-Camara/cheerlights_Saberes-Afazeres/blob/main/cheerlights_saberes-afazeres.jpg?raw=true)
+
 ***
 
 Muito bem e para que serve isto? Por qual motivo terei interesse em mudar a cor da [árvore de Natal](https://cheerlights.com/live/) do vizinho, mesmo sabendo que este "vizinho invisível" poderá estar do outro lado do planeta? E daí ...
