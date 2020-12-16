@@ -4,7 +4,7 @@
 Explorando o [@CheerLights](https://cheerlights.com/) como meio de instrução para a programação da placa ESP32 Heltec V2. 
 
 Primeiro um pouquinho de história!
-CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma das formas de conectar/comandar coisas físicas ([arranjos luminosos de Natal](https://cheerlights.com/live/), displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em voga, [Twitter](https://twitter.com/).
+CheerLights é um projeto de “Internet das Coisas” criado por Hans Scharler que permite que as luzes (lâmpadas, fitas ou cordões de leds) de pessoas em todo o mundo sejam sincronizadas com uma cor sugerida por meio de uma mensagem pelo Twitter. Esta é uma das formas de conectar/comandar coisas físicas ([arranjos luminosos de Natal](https://cheerlights.com/live/), displays, painéis ou aplicativos) por intermédio de redes sociais, no caso em questão, [Twitter](https://twitter.com/).
 
 Experimente, você mesmo, enviando um tweet. Simplesmente digite: **@CheerLights red now** <enter>
 
