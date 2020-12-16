@@ -18,8 +18,8 @@ Bem, o CheerLights é capaz de proporcionar um ambiente bastante fértil para ex
 ***
 - [x] v.1: vamos lá, sei que você não se contentará com a monotonia de uma única cor (monocromático). Façamos dois tipos de registros históricos: (i) um visual (fita de leds) com os 48 últimos registros de cores amostrados (discretizados) a cada 10 segundos; e (ii) prover dados para um banco de dados com a cor e o respectivo intervalo de permanência (tempo de cronômetro) da cor inalterada;  
 - [x] v.1.1: display do ESP32 com a indicação da cor e tempo de exposição da respectiva cor;
-- [ ] v.1.2: captação de um idDigital, tal como uma "assinatura em livro de visita" daqueles que instalarem e rodarem o sketch em suas placas;
-- [ ] v.1.3: utilização do FastLED v.3.3.3, ThingSpeak (receber a cor da vez "tweetada" pelo além da Internet e analisar os registros) e MQTT (idDigital e publicar registros); e
+- [ ] v.1.2: utilização do FastLED v.3.3.3, ThingSpeak (receber a cor da vez "tweetada" pelo além da Internet e analisar os registros publicados) e MQTT (assinar idDigital e publicar registros: cor e cronômetro);
+- [ ] v.1.3: captação de um idDigital, tal como uma "assinatura em livro de visita" daqueles que instalarem e rodarem o sketch em suas placas; e
 - [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta me parece a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
 Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). **Fique de olho no CheerLights!**
