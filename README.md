@@ -22,6 +22,6 @@ Bem, o CheerLights é capaz de proporcionar um ambiente bastante fértil para ex
 - [x] v.1.1: display (OLED) do ESP32 com a indicação da cor e tempo de exposição da respectiva cor;
 - [ ] v.1.2: utilização do FastLED v.3.3.3, ThingSpeak (receber a cor da vez "tweetada" pelo além da Internet e analisar os registros publicados) e MQTT (assinar idDigital e publicar registros: cor e cronômetro);
 - [ ] v.1.3: captação de um idDigital, tal como uma "assinatura em livro de visita" daqueles que instalarem e rodarem o sketch em suas placas; e
-- [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta me parece a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
+- [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta parece-me a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
 Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). **Fique de olho no [CheerLights!](https://cheerlights.com/)**
