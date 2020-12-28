@@ -22,6 +22,6 @@ Bem, o CheerLights é capaz de proporcionar um ambiente bastante fértil para ex
 - [x] v.1.1: utilização do FastLED v.3.3.3 e display (OLED) do ESP32 com a indicação da cor e tempo de exposição (cronômetro) da respectiva cor;
 - [x] v.1.2: captação de um idDigital, tal como uma "assinatura em livro de visita" daqueles que instalarem e rodarem o sketch em suas placas. A intenção não é de identificar, tão somente registrar a visita, como se fosse, uma rubrica;
 - [ ] v.1.3: [ThingSpeak](https://thingspeak.com/channels/1270120) recebe os dados (idDigital, color e cronômetro) e apresenta num gráfico temporal; e
-- [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent e gráfico de histórico). Esta parece-me a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
+- [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent, chronometer e gráfico de histórico - TS). Esta parece-me a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
 Vou ficar por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). **Fique de olho no [CheerLights!](https://cheerlights.com/)**
