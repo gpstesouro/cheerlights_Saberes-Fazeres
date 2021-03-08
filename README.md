@@ -24,4 +24,6 @@ Bem, o CheerLights é capaz de proporcionar um ambiente bastante fértil para ex
 - [x] v.1.3: [ThingSpeak](https://thingspeak.com/channels/1270120) recebe os dados (idDigital, color e cronômetro) e apresenta num gráfico temporal; e
 - [ ] v.2: dashboard WEB (Qnt de idDigitais, corCurrent, chronometer e gráfico de histórico - TS). Esta parece-me a tarefa mais complicada e que demandará maior tempo. Alguém se habilita a ajudar? :fist_right: :fist_left:
 ***
-Vou limitar esta tarefa por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). **Fique de olho no [CheerLights!](https://cheerlights.com/)**
+Vou limitar esta tarefa por aqui, pois já é invenção suficiente para carrear um bom trabalho (:coffee:). 
+
+**Fique de olho no [CheerLights!](https://cheerlights.com/)**
